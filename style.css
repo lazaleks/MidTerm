@@ -1,0 +1,47 @@
+.container{
+    width: 1200px;
+    padding-top: 30px;
+}
+.noBulletsOL{
+    list-style-type: none;
+}
+.noBulletsOL ol{
+    list-style-type: none;
+}
+.navbar{
+    font-size: larger;
+}
+.quizForm{
+    border: 3px solid black;
+    border-radius: 7px;
+    margin: 30px;
+    align-content: center;
+    text-align: center;
+    vertical-align: middle;
+    text-align: left;
+    width: auto;
+    padding: 20px;
+    float: left;
+}
+.quizForm ol{
+    width: 50%;
+}
+.quizForm input[type="text"]{
+    width: 90%;   
+}
+.quizForm input[type="checkbox"]{
+    float: right;
+}
+.contactForm{
+    border: 3px solid black;
+    border-radius: 7px;
+    margin: auto;
+    margin-top: 10px;
+    align-content: center;
+    text-align: center;
+    vertical-align: middle;
+    text-align: left;
+    width:20%;
+    padding: 20px;
+
+}
